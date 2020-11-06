@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Newsio</string>
+    <string name="tab_text_1">Buzzfeed</string>
+    <string name="tab_text_2">CNN</string>
+    <string name="tab_text_3">ESPN</string>
+    <string name="tab_text_4">Fortune</string>
+    <string name="tab_text_5">Foxnews</string>
+    <string name="tab_text_6">Gaurdian</string>
+</resources>
